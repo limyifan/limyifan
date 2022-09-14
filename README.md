@@ -1,3 +1,4 @@
+![enter image description here](https://media-exp1.licdn.com/dms/image/C4E16AQGXdsAr56WndA/profile-displaybackgroundimage-shrink_350_1400/0/1663191654374?e=1668643200&v=beta&t=fPCD8kxNz34hd0sKi5EYLl-gq7W2So82JA7w5-WXVMA)
 # Web3 Full Stack Developer 👨‍💻
 
 👀 A creative thinker, adept in software development and working with various data structures. Hons. BSc. in Computing with a proven ability to multitask and work well under pressure without forgetting the quality of works. Having Deep interest in Coding, Logic puzzles solving, Math and started to code as young as 14th.
