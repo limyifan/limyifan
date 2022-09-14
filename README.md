@@ -16,8 +16,8 @@ Jun 2021 — Present
 
  - Writing smart contracts using **Solidity**
 
-- Developing Websites using **Vue.JS** framework and **Vuex**
-
+- Developing Websites using **Vue.JS** and **React.JS** framework
+- Building large-scale website using **Vuex** and **Redux** as State Management Pattern
 - Have experience with server side render frameworks such as **Nuxt.js**
 
 - Using **Web3.JS** to interact with remote and local Ethereum nodes
