@@ -1,4 +1,4 @@
-![My Profile Banner]([https://media-exp1.licdn.com/dms/image/C4E16AQGWkq4aehT5mg/profile-displaybackgroundimage-shrink_350_1400/0/1663191854387?e=1668643200&v=beta&t=U8kSAwPnZsISztW4MhToQDm4ZrOb9Cv2_3Pg7A8uLg4](https://firebasestorage.googleapis.com/v0/b/aflex-50007.appspot.com/o/banner.png?alt=media&token=2db6b86d-5c1a-443f-b0f6-85d4f200783b))
+![My Profile Banner](https://firebasestorage.googleapis.com/v0/b/aflex-50007.appspot.com/o/banner.png?alt=media&token=2db6b86d-5c1a-443f-b0f6-85d4f200783b)
 # Web3 Full Stack Developer 👨‍💻
 
 👀 A creative thinker, adept in software development and working with various data structures. Hons. BSc. in Computing with a proven ability to multitask and work well under pressure without forgetting the quality of works. Having Deep interest in Coding, Logic puzzles solving, Math and started to code as young as 14th.
