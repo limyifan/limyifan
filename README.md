@@ -12,7 +12,7 @@
 
 # Employment History 💼
 
-## Full Stack Developer at Chainge Games, Dubai
+## Full Stack Developer at Chainge Games, Dublin
 Jun 2021 — Present
 
  - Writing smart contracts using **Solidity**
