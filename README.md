@@ -13,7 +13,7 @@
 # Employment History 💼
 
 ## Full Stack Developer at Chainge Games, Dublin
-Jun 2021 — Present
+Jan 2021 — Present
 
  - Writing smart contracts using **Solidity**
 
@@ -30,7 +30,7 @@ Jun 2021 — Present
 - Developing NFT Art Gallery Mobile Application using **React Native**
 
 ## Mobile Application Developer at Pineapple Technology, Dublin
-May 2020 — May 2021
+May 2020 — Dec 2020
 
 - Developing the application using **Flutter****，****Dart** for front-end design and **Firebase** for database support
 
