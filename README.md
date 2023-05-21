@@ -13,7 +13,7 @@
 # Employment History 💼
 
 ## Full Stack Developer at Chainge Games, Dublin
-Jan 2021 — Present
+Dec 2020 — Present
 
  - Writing smart contracts using **Solidity**
 
