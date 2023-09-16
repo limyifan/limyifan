@@ -25,6 +25,7 @@ Dec 2020 — Present
 - Have experience with server-side render frameworks such as **Nuxt.js**
 
 - Using **Web3.JS** to interact with remote and local Ethereum nodes
+- Using **Git** framework for managing source code on multi-person projects, enabling increased team collaboration and deployment efficiency.
 
 - Writing automated smart contract tests using JavaScript and Chai Assertion Library
 
